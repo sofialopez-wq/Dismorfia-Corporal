@@ -1,0 +1,344 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100vw;
+  line-height: normal;
+}
+
+.macbook-pro-16-1 {
+  width: 100vw;
+  height: 6186px;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  text-align: left;
+  font-size: 32px;
+  color: #fff;
+  font-family: Afacad;
+}
+.footer {
+  position: absolute;
+  top: 6054px;
+  left: 0px;
+  width: 1728px;
+  height: 132px;
+  flex-shrink: 0;
+  font-size: 20px;
+}
+.footer-child {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: #8c001a;
+  width: 1800px;
+  height: 132px;
+}
+.sofia-lpez-faras {
+  position: absolute;
+  top: 51px;
+  left: 640px;
+  line-height: 150%;
+}
+.referencias {
+  position: absolute;
+  top: 5631px;
+  left: 0px;
+  width: 1728px;
+  height: 426px;
+  flex-shrink: 0;
+  font-size: 67.77px;
+  color: #8c001a;
+  font-family: "Butterfly Kids";
+}
+.referencias-child {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: #ce796b;
+  width: 1800px;
+  height: 426px;
+}
+.referencias-bibliogrficas {
+  position: absolute;
+  top: 83px;
+  left: 81px;
+  line-height: 150%;
+}
+.trastorno-dismrfico-corporal-container {
+  position: absolute;
+  top: 222px;
+  left: 81px;
+  font-size: 32px;
+  text-decoration: underline;
+  line-height: 150%;
+  font-family: Afacad;
+}
+.trastorno-dismrfico-corporal {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+  line-height: 150%;
+}
+.trastorno-dismrfico-corporal2 {
+  margin-bottom: 0px;
+  line-height: 150%;
+}
+.blank-line {
+  line-height: 150%;
+}
+.autoimagen-y-dismorfia {
+  color: inherit;
+  line-height: 150%;
+}
+.experiencia-en-internet {
+  position: absolute;
+  top: 4838px;
+  left: -75px;
+  width: 1803px;
+  height: 793px;
+  flex-shrink: 0;
+}
+.experiencia-en-internet-child {
+  position: absolute;
+  top: 0px;
+  left: 75px;
+  background-color: #03312e;
+  width: 1800px;
+  height: 793px;
+}
+.ella-es-tan {
+  position: absolute;
+  top: 157px;
+  left: 986px;
+  line-height: 150%;
+  display: inline-block;
+  width: 635px;
+}
+.image-14-icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 793px;
+  height: 793px;
+  object-fit: cover;
+}
+.dismorfia-en-chicas {
+  position: absolute;
+  top: 3558px;
+  left: 0px;
+  width: 2239px;
+  height: 1280px;
+  flex-shrink: 0;
+}
+.image-9-icon {
+  position: absolute;
+  top: 0px;
+  left: 511px;
+  width: 1500px;
+  height: 1280px;
+  overflow-x: hidden;
+  object-fit: cover;
+}
+.dismorfia-en-chicas-child {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: #000;
+  width: 555px;
+  height: 1280px;
+}
+.si-bien-este {
+  position: absolute;
+  top: 527px;
+  left: 124px;
+  line-height: 150%;
+  display: inline-block;
+  width: 594px;
+}
+.dismorfia-digital {
+  position: absolute;
+  top: 2583px;
+  left: 0px;
+  width: 1728px;
+  height: 975px;
+  flex-shrink: 0;
+}
+.dismorfia-digital-child {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: #8c001a;
+  width: 1800px;
+  height: 975px;
+}
+.la-dismorfia-digital {
+  position: absolute;
+  top: 176px;
+  left: 957px;
+  line-height: 150%;
+  display: inline-block;
+  width: 693px;
+}
+.image-12-icon {
+  position: absolute;
+  top: 121.34px;
+  left: 539.21px;
+  border-radius: 32px;
+  width: 332.4px;
+  height: 334.5px;
+  object-fit: contain;
+}
+.image-11-icon {
+  position: absolute;
+  top: 36.33px;
+  left: 69.29px;
+  border-radius: 65px;
+  width: 508.3px;
+  height: 543.5px;
+  object-fit: contain;
+}
+.image-13-icon {
+  position: absolute;
+  top: 552.21px;
+  left: 45.81px;
+  border-radius: 62px;
+  width: 315px;
+  height: 306px;
+  object-fit: contain;
+}
+.image-10-icon {
+  position: absolute;
+  top: 410.58px;
+  left: 291.42px;
+  border-radius: 49px;
+  width: 549.8px;
+  height: 514.2px;
+  object-fit: contain;
+}
+.qu-es-dismorfia {
+  position: absolute;
+  top: 1471px;
+  left: 0px;
+  width: 1804px;
+  height: 1112px;
+  flex-shrink: 0;
+  font-size: 109.66px;
+  color: #8c001a;
+  font-family: "Butterfly Kids";
+}
+.qu-es-dismorfia-child {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: #e7ad99;
+  width: 1728px;
+  height: 1112px;
+}
+.qu-es-la {
+  position: absolute;
+  top: 66px;
+  left: 67px;
+  line-height: 113.91%;
+  display: inline-block;
+  width: 903px;
+}
+
+.dismorfia-corporal {
+  position: absolute;
+  top: 117px;
+  left: 459px;
+  line-height: 90%;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 477px;
+}
+
+.image-8-icon {
+  position: absolute;
+  top: 0px;
+  left: 970px;
+  width: 834px;
+  height: 1112px;
+  object-fit: cover;
+}
+.el-trastorno-dismrfico {
+  position: absolute;
+  top: 232px;
+  left: 44px;
+  font-size: 32px;
+  line-height: 150%;
+  font-family: Afacad;
+  color: #000;
+  display: inline-block;
+  width: 892px;
+  height: 699px;
+}
+.portada {
+  position: absolute;
+  top: -290px;
+  left: -251px;
+  width: 2228.6px;
+  height: 1733px;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 177.42px;
+  color: #000;
+  font-family: Unbounded;
+}
+.dismorfia-corporal2 {
+  position: absolute;
+  top: 366px;
+  left: 477px;
+}
+.ser-una-chica {
+  position: absolute;
+  top: 806px;
+  left: 680px;
+  font-size: 96px;
+  font-family: "Butterfly Kids";
+  text-align: left;
+}
+.image-1-icon {
+  position: absolute;
+  top: 1105px;
+  left: 665px;
+  width: 900px;
+  height: 533px;
+  object-fit: cover;
+}
+.image-4-icon {
+  position: absolute;
+  top: 721px;
+  left: 1617px;
+  width: 467px;
+  height: 1012px;
+  object-fit: contain;
+}
+.image-5-icon {
+  position: absolute;
+  top: 721px;
+  left: 146px;
+  width: 467px;
+  height: 1012px;
+  object-fit: contain;
+}
+.image-6-icon {
+  position: absolute;
+  top: 200px;
+  left: 1600px;
+  width: 579.6px;
+  height: 909.8px;
+  object-fit: contain;
+}
+.image-7-icon {
+  position: absolute;
+  top: 200px;
+  left: 100px;
+  width: 579.6px;
+  height: 909.8px;
+  object-fit: contain;
+}
